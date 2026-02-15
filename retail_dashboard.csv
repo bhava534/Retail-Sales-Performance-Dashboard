@@ -1,0 +1,1001 @@
+order_date,city,region,category,sub_category,revenue
+2024-07-19,Bangalore,West,Beverages,D,3003.11
+2024-11-23,Chennai,South,Food,B,3069.95
+2024-09-24,Bangalore,West,Beverages,C,4613.70
+2024-02-02,Bangalore,North,Food,B,510.66
+2024-02-17,Pune,West,Beverages,C,377.25
+2024-03-02,Chennai,West,Beverages,D,8351.00
+2024-08-03,Pune,South,Food,A,487.68
+2024-10-19,Bangalore,North,Household,C,566.29
+2024-04-08,Pune,South,Beverages,A,4800.78
+2024-06-20,Bangalore,South,Beverages,A,2079.11
+2024-12-25,Chennai,West,Beverages,C,2568.78
+2024-08-01,Chennai,South,"Personal Care",D,2364.63
+2024-02-04,Chennai,South,Household,C,1807.75
+2024-08-14,Chennai,South,Beverages,A,4309.86
+2024-04-10,Chennai,South,Food,D,997.14
+2024-05-10,Pune,West,Food,A,7858.05
+2024-09-13,Pune,South,Beverages,C,213.81
+2024-01-05,Pune,South,Beverages,B,145.50
+2024-08-05,Chennai,South,Household,A,4543.50
+2024-09-11,Pune,West,Beverages,D,3981.78
+2024-12-24,Chennai,West,Beverages,C,2671.12
+2024-10-09,Pune,North,Food,B,666.15
+2024-07-25,Pune,North,Beverages,D,1524.72
+2024-01-15,Pune,South,Food,A,2086.66
+2024-12-11,Chennai,South,Food,B,4140.43
+2024-02-11,Pune,West,Household,A,930.54
+2024-06-27,Bangalore,South,Food,D,313.22
+2024-03-03,Chennai,South,Household,D,2928.22
+2024-12-17,Chennai,South,Household,C,1458.21
+2024-08-18,Delhi,North,Beverages,B,2736.50
+2024-08-28,Bangalore,South,Household,A,362.21
+2024-02-21,Bangalore,South,Food,A,8528.00
+2024-04-05,Pune,South,Beverages,D,3371.25
+2024-08-09,Chennai,South,"Personal Care",A,4343.98
+2024-08-18,Bangalore,South,Beverages,C,8986.19
+2024-08-24,Chennai,West,Household,B,793.20
+2024-05-22,Pune,West,Beverages,C,3623.65
+2024-06-19,Delhi,South,Beverages,D,4491.44
+2024-01-29,Chennai,North,Household,C,1236.69
+2024-02-05,Chennai,South,Food,A,2702.91
+2024-01-13,Pune,West,Household,A,933.81
+2024-06-08,Bangalore,South,Household,A,3536.42
+2024-11-22,Chennai,South,Beverages,C,912.04
+2024-07-05,Chennai,South,"Personal Care",D,4760.62
+2024-08-30,Delhi,North,Beverages,A,1155.72
+2024-03-26,Chennai,South,Food,D,856.22
+2024-10-10,Chennai,South,Beverages,D,1346.72
+2024-03-06,Pune,North,Household,C,2186.16
+2024-06-18,Delhi,South,Food,A,2554.72
+2024-02-14,Pune,West,Household,C,594.47
+2024-03-02,Bangalore,South,Beverages,C,1442.06
+2024-05-13,Mumbai,West,Household,D,803.30
+2024-10-10,Pune,South,"Personal Care",C,6287.60
+2024-01-28,Pune,South,Household,A,1621.51
+2024-04-17,Bangalore,North,Food,B,5576.32
+2024-02-13,Pune,South,"Personal Care",C,1864.48
+2024-12-05,Chennai,South,Beverages,C,740.48
+2024-10-12,Bangalore,North,Household,A,800.40
+2024-11-26,Pune,South,Beverages,C,4618.14
+2024-05-07,Pune,North,Food,B,7181.37
+2024-12-13,Pune,South,Household,A,2350.25
+2024-08-18,Bangalore,North,"Personal Care",C,1430.98
+2024-07-08,Pune,South,Beverages,D,5237.94
+2024-08-12,Pune,North,Beverages,D,2317.96
+2024-10-09,Bangalore,North,Household,A,2890.19
+2024-04-30,Bangalore,West,Household,D,1895.25
+2024-04-25,Pune,North,Beverages,A,3076.78
+2024-08-20,Chennai,North,Household,A,6520.16
+2024-09-15,Delhi,South,"Personal Care",A,3176.14
+2024-12-24,Bangalore,North,Household,D,1340.03
+2024-07-16,Pune,South,Household,B,6331.51
+2024-05-16,Bangalore,North,Household,A,3775.13
+2024-11-13,Pune,North,Food,D,4573.86
+2024-06-13,Chennai,South,Beverages,D,5957.42
+2024-08-12,Delhi,North,Household,B,3575.59
+2024-11-02,Bangalore,South,Household,C,179.36
+2024-08-21,Bangalore,South,Beverages,D,3225.39
+2024-06-20,Bangalore,North,Beverages,C,3663.33
+2024-05-31,Pune,North,Beverages,C,2756.22
+2024-11-10,Pune,North,Beverages,D,2881.22
+2024-06-08,Bangalore,South,Beverages,B,1041.71
+2024-04-05,Chennai,South,Household,B,621.59
+2024-08-20,Mumbai,West,Beverages,C,4706.88
+2024-06-28,Pune,North,Household,D,2929.56
+2024-04-22,Bangalore,South,Household,C,317.63
+2024-11-13,Pune,North,"Personal Care",D,264.12
+2024-02-21,Pune,West,Beverages,C,696.07
+2024-09-24,Pune,North,Beverages,A,2896.70
+2024-10-21,Bangalore,South,Beverages,D,4350.89
+2024-04-22,Delhi,South,Household,A,1130.37
+2024-04-10,Chennai,South,Beverages,D,8330.09
+2024-04-22,Delhi,South,Beverages,A,1422.55
+2024-03-21,Chennai,West,Beverages,D,1312.93
+2024-07-05,Chennai,South,Beverages,C,866.74
+2024-04-22,Mumbai,West,"Personal Care",C,3986.85
+2024-01-02,Bangalore,South,Household,A,3036.25
+2024-05-09,Bangalore,North,"Personal Care",C,1567.24
+2024-08-07,Pune,West,Food,B,758.50
+2024-02-23,Bangalore,West,Food,B,4098.17
+2024-12-08,Mumbai,West,Food,B,310.18
+2024-08-11,Pune,North,Beverages,C,1621.38
+2024-08-12,Pune,West,Beverages,C,1763.89
+2024-05-05,Mumbai,West,Beverages,D,2513.29
+2024-05-09,Chennai,North,"Personal Care",C,885.19
+2024-02-22,Bangalore,South,Food,B,3448.89
+2024-06-20,Mumbai,West,Beverages,A,379.16
+2024-08-05,Bangalore,South,Household,D,152.44
+2024-06-08,Pune,West,Food,D,2122.65
+2024-07-16,Delhi,South,"Personal Care",D,4740.56
+2024-09-03,Mumbai,West,Beverages,A,2217.10
+2024-11-19,Delhi,South,Household,C,6869.85
+2024-07-21,Chennai,North,"Personal Care",D,1359.11
+2024-07-02,Delhi,South,Beverages,A,3620.53
+2024-05-02,Chennai,West,"Personal Care",C,527.15
+2024-09-11,Mumbai,West,"Personal Care",C,1693.92
+2024-10-20,Pune,South,Beverages,A,3907.22
+2024-10-06,Chennai,West,Beverages,D,6303.26
+2024-11-20,Pune,West,Household,C,6705.35
+2024-04-07,Pune,North,Household,A,3300.06
+2024-07-16,Chennai,West,Household,D,8927.81
+2024-08-27,Chennai,South,Food,B,221.28
+2024-05-23,Pune,South,Beverages,C,5811.82
+2024-04-06,Pune,West,Household,C,1282.16
+2024-07-19,Bangalore,North,Beverages,D,6655.42
+2024-05-03,Chennai,West,Beverages,D,3425.76
+2024-07-05,Delhi,North,Beverages,C,1839.10
+2024-11-21,Mumbai,West,Household,C,1466.51
+2024-12-14,Bangalore,West,Beverages,B,3105.86
+2024-09-15,Delhi,North,Beverages,A,6522.91
+2024-05-27,Bangalore,South,Household,B,1833.87
+2024-09-08,Pune,North,Beverages,C,3089.82
+2024-12-11,Chennai,South,Beverages,D,512.18
+2024-05-26,Chennai,South,"Personal Care",D,688.38
+2024-05-27,Delhi,South,Beverages,C,592.78
+2024-12-17,Bangalore,South,Beverages,D,289.34
+2024-07-17,Pune,North,Beverages,D,3255.58
+2024-11-03,Bangalore,North,Household,C,3652.41
+2024-05-07,Bangalore,South,Food,A,1019.83
+2024-02-08,Delhi,South,Food,A,671.33
+2024-12-03,Chennai,South,Household,A,3831.96
+2024-12-25,Chennai,West,Food,A,598.99
+2024-05-08,Delhi,South,"Personal Care",C,1498.07
+2024-09-23,Bangalore,North,"Personal Care",C,661.38
+2024-05-30,Bangalore,North,Food,D,1637.99
+2024-10-24,Pune,South,Household,D,6565.12
+2024-04-08,Delhi,South,Household,B,860.09
+2024-09-19,Bangalore,North,"Personal Care",C,4054.95
+2024-09-08,Delhi,North,Household,D,723.84
+2024-05-23,Chennai,South,Household,D,6425.34
+2024-12-11,Chennai,North,Household,A,3105.48
+2024-04-21,Bangalore,West,Household,A,789.00
+2024-02-29,Chennai,South,Beverages,A,842.96
+2024-01-02,Bangalore,North,Beverages,C,1555.62
+2024-10-30,Pune,South,Food,A,4839.39
+2024-09-10,Bangalore,South,Beverages,C,887.84
+2024-05-19,Chennai,South,Beverages,D,1633.58
+2024-02-06,Mumbai,West,Beverages,A,949.51
+2024-06-08,Bangalore,West,Household,A,759.40
+2024-01-09,Chennai,West,Household,C,311.77
+2024-08-20,Bangalore,West,Household,A,3498.68
+2024-04-08,Delhi,South,Food,A,723.27
+2024-05-26,Pune,West,Household,A,4091.09
+2024-10-30,Pune,South,Beverages,A,3190.03
+2024-07-26,Bangalore,West,Food,D,3015.45
+2024-05-10,Bangalore,North,Beverages,B,3672.87
+2024-05-31,Bangalore,North,Beverages,C,767.31
+2024-02-23,Bangalore,North,Household,C,1453.89
+2024-04-29,Pune,South,Household,D,4715.21
+2024-06-09,Chennai,North,"Personal Care",C,1881.39
+2024-04-25,Chennai,South,"Personal Care",C,1893.58
+2024-03-15,Pune,South,Beverages,D,1297.48
+2024-04-22,Bangalore,North,Food,A,5718.50
+2024-04-13,Chennai,West,Beverages,A,3354.53
+2024-12-05,Delhi,South,Beverages,A,207.84
+2024-09-10,Delhi,South,Food,D,1199.43
+2024-08-14,Pune,North,"Personal Care",C,2818.55
+2024-04-21,Chennai,North,Beverages,A,401.12
+2024-04-08,Bangalore,West,Beverages,A,8737.55
+2024-06-01,Pune,South,Beverages,A,1684.32
+2024-12-14,Pune,West,Household,A,1129.35
+2024-12-03,Pune,South,Household,C,3209.94
+2024-07-12,Pune,North,Household,D,545.15
+2024-11-05,Pune,South,Food,A,1999.55
+2024-06-11,Delhi,South,"Personal Care",C,1663.17
+2024-07-26,Pune,South,Beverages,A,1166.09
+2024-06-17,Delhi,North,Household,D,973.28
+2024-06-09,Pune,South,Beverages,A,1641.29
+2024-03-08,Pune,South,Beverages,A,379.63
+2024-10-15,Delhi,North,Food,D,1976.76
+2024-10-03,Chennai,West,Household,B,366.01
+2024-10-30,Delhi,South,Household,A,5441.53
+2024-05-14,Pune,West,Household,A,3368.36
+2024-07-13,Pune,North,Household,A,1305.50
+2024-05-07,Delhi,South,Beverages,A,1614.28
+2024-02-02,Bangalore,North,Household,D,1036.64
+2024-06-24,Pune,South,Household,C,7843.39
+2024-01-22,Chennai,West,Household,D,2827.45
+2024-08-25,Chennai,South,Food,A,8446.62
+2024-06-06,Bangalore,West,"Personal Care",C,4257.48
+2024-02-07,Bangalore,South,Beverages,A,3724.43
+2024-08-17,Bangalore,West,Beverages,A,3539.25
+2024-12-30,Bangalore,South,Household,C,4636.47
+2024-02-20,Chennai,South,Beverages,A,4897.46
+2024-09-20,Chennai,South,Household,A,338.30
+2024-10-09,Pune,South,Beverages,D,934.63
+2024-01-27,Pune,West,Household,C,4433.48
+2024-08-13,Bangalore,South,Beverages,C,1058.68
+2024-10-03,Pune,North,Food,D,2138.21
+2024-10-12,Chennai,West,"Personal Care",A,5242.53
+2024-04-06,Chennai,South,Beverages,A,1629.39
+2024-10-10,Chennai,West,Food,D,4179.64
+2024-11-12,Chennai,South,Beverages,A,845.14
+2024-10-30,Delhi,South,"Personal Care",C,5704.36
+2024-05-26,Chennai,West,Beverages,C,3383.92
+2024-01-04,Bangalore,North,Food,B,2882.79
+2024-02-04,Delhi,South,Beverages,A,1988.69
+2024-07-10,Chennai,North,Beverages,C,5546.40
+2024-02-18,Pune,North,Beverages,C,705.56
+2024-01-17,Bangalore,South,Household,C,3198.92
+2024-06-20,Mumbai,West,Beverages,A,1901.25
+2024-08-07,Pune,North,Beverages,D,3296.32
+2024-06-06,Bangalore,North,Beverages,A,1840.13
+2024-02-15,Bangalore,North,Beverages,C,1230.60
+2024-01-06,Bangalore,South,Food,A,1064.72
+2024-04-08,Chennai,South,"Personal Care",A,195.85
+2024-08-20,Bangalore,South,"Personal Care",D,3422.10
+2024-02-06,Bangalore,North,Household,A,1541.25
+2024-10-06,Bangalore,South,"Personal Care",D,1376.90
+2024-12-14,Pune,South,Household,B,2596.26
+2024-10-28,Chennai,North,Beverages,D,4210.85
+2024-06-29,Pune,South,Beverages,A,4295.77
+2024-04-04,Bangalore,North,Household,D,671.71
+2024-04-08,Pune,North,Beverages,C,2242.40
+2024-07-06,Bangalore,South,Household,C,273.80
+2024-04-25,Chennai,West,Food,B,2681.98
+2024-07-09,Pune,South,Household,A,3714.57
+2024-09-09,Pune,North,Household,C,4465.43
+2024-06-09,Pune,North,Beverages,D,4580.38
+2024-09-12,Chennai,South,Food,A,2443.79
+2024-11-18,Chennai,South,Beverages,C,1683.66
+2024-05-07,Pune,South,Household,B,2371.40
+2024-01-18,Pune,West,Household,A,5883.43
+2024-10-07,Delhi,South,Beverages,A,728.55
+2024-08-10,Bangalore,West,Food,A,3800.62
+2024-02-23,Chennai,South,"Personal Care",C,5957.79
+2024-02-27,Delhi,South,Beverages,A,8196.44
+2024-11-18,Bangalore,South,Beverages,A,1295.31
+2024-12-25,Pune,South,Beverages,D,338.77
+2024-06-22,Pune,West,Beverages,C,2782.10
+2024-10-06,Pune,West,Beverages,D,951.61
+2024-04-23,Chennai,South,Household,D,2678.63
+2024-10-14,Pune,West,Household,C,1311.29
+2024-12-07,Delhi,South,Food,B,709.01
+2024-05-30,Pune,West,Beverages,C,1646.63
+2024-05-06,Delhi,South,Beverages,C,8469.70
+2024-06-03,Delhi,North,Beverages,B,1878.63
+2024-09-29,Chennai,South,Beverages,C,1433.54
+2024-04-13,Delhi,South,Beverages,D,1840.89
+2024-10-25,Bangalore,West,Food,D,2071.04
+2024-09-02,Delhi,North,Household,A,791.27
+2024-06-24,Delhi,North,Household,D,1801.34
+2024-02-08,Pune,South,Beverages,C,6595.47
+2024-06-18,Bangalore,South,"Personal Care",A,982.90
+2024-09-03,Pune,South,Beverages,A,2245.20
+2024-01-26,Chennai,South,Household,B,3442.36
+2024-12-20,Pune,West,"Personal Care",C,5937.45
+2024-11-01,Bangalore,West,Food,B,6898.13
+2024-01-13,Delhi,South,Beverages,C,4413.55
+2024-11-11,Chennai,West,Household,A,537.19
+2024-11-08,Pune,West,Household,D,1492.25
+2024-02-05,Chennai,North,Beverages,C,2295.70
+2024-06-21,Pune,South,Food,A,3802.56
+2024-01-20,Chennai,West,Beverages,C,1963.27
+2024-11-16,Pune,South,Household,A,5920.09
+2024-09-20,Delhi,South,"Personal Care",C,4661.42
+2024-05-21,Delhi,South,Household,D,7266.09
+2024-05-22,Chennai,South,Beverages,D,6636.19
+2024-04-01,Chennai,South,"Personal Care",C,3121.79
+2024-12-19,Chennai,West,Beverages,A,3331.34
+2024-11-17,Pune,West,Food,B,6979.17
+2024-10-14,Delhi,North,Food,A,821.64
+2024-08-02,Delhi,North,Beverages,C,770.63
+2024-12-07,Chennai,South,Beverages,C,4335.37
+2024-02-20,Bangalore,South,Household,C,1790.36
+2024-06-01,Bangalore,North,Household,A,3601.88
+2024-07-04,Pune,South,Household,A,3688.99
+2024-03-03,Mumbai,West,Beverages,A,2573.15
+2024-07-08,Pune,North,Household,A,4956.62
+2024-05-04,Pune,South,Beverages,D,1707.49
+2024-05-29,Bangalore,North,Household,B,1744.88
+2024-11-09,Bangalore,West,"Personal Care",C,1684.43
+2024-02-27,Pune,West,Beverages,D,512.00
+2024-12-07,Bangalore,West,Beverages,C,1248.68
+2024-10-31,Mumbai,West,Beverages,A,676.00
+2024-06-28,Pune,South,Beverages,C,806.17
+2024-06-18,Chennai,West,Household,B,4909.63
+2024-11-21,Bangalore,West,Food,B,465.91
+2024-09-27,Delhi,South,Beverages,D,5090.48
+2024-02-23,Bangalore,North,Household,C,2202.59
+2024-04-10,Bangalore,South,Household,A,2599.31
+2024-09-20,Pune,West,Household,C,6636.46
+2024-02-22,Bangalore,South,Household,C,4391.12
+2024-02-29,Pune,North,Household,D,5664.62
+2024-04-17,Chennai,South,"Personal Care",D,758.00
+2024-01-05,Pune,North,Beverages,A,1883.35
+2024-04-12,Bangalore,West,Food,A,1968.93
+2024-07-14,Chennai,West,Beverages,C,467.53
+2024-09-18,Chennai,South,Beverages,A,964.20
+2024-12-30,Delhi,South,Food,D,1410.86
+2024-12-15,Delhi,North,"Personal Care",D,4741.25
+2024-02-16,Chennai,West,"Personal Care",D,7888.67
+2024-12-20,Delhi,South,Beverages,D,927.40
+2024-11-06,Pune,South,"Personal Care",A,2811.72
+2024-11-03,Pune,South,Household,A,1420.85
+2024-05-23,Chennai,West,Household,C,7657.25
+2024-09-25,Bangalore,South,Food,D,1640.00
+2024-05-03,Delhi,South,Beverages,D,659.14
+2024-04-15,Delhi,South,Food,D,1171.84
+2024-06-06,Chennai,West,Household,C,4435.37
+2024-05-26,Chennai,South,Household,C,3484.97
+2024-05-24,Chennai,South,Beverages,D,671.23
+2024-04-29,Chennai,North,"Personal Care",D,231.72
+2024-11-14,Bangalore,West,Household,A,501.12
+2024-10-01,Bangalore,South,Beverages,D,1834.10
+2024-04-01,Pune,South,Food,D,1124.22
+2024-02-27,Pune,North,Food,B,1934.53
+2024-12-11,Bangalore,North,Beverages,A,1866.88
+2024-08-16,Bangalore,South,Beverages,C,974.52
+2024-04-26,Chennai,South,Household,D,293.24
+2024-11-13,Chennai,North,Food,B,6240.30
+2024-10-05,Bangalore,South,Beverages,C,5846.55
+2024-05-06,Bangalore,South,Beverages,A,3838.89
+2024-05-08,Bangalore,North,Beverages,A,6216.88
+2024-02-27,Mumbai,West,"Personal Care",C,6905.66
+2024-05-01,Bangalore,South,"Personal Care",A,136.05
+2024-01-01,Chennai,South,Beverages,A,708.62
+2024-08-26,Delhi,South,Beverages,D,1353.57
+2024-10-16,Bangalore,West,"Personal Care",D,5804.41
+2024-04-05,Chennai,South,Household,C,969.96
+2024-05-05,Delhi,South,Household,A,2200.10
+2024-04-27,Chennai,South,"Personal Care",C,3154.29
+2024-02-17,Chennai,South,Beverages,A,908.89
+2024-03-29,Chennai,West,Household,B,799.05
+2024-08-24,Bangalore,South,"Personal Care",C,489.50
+2024-09-28,Chennai,North,Food,B,4325.36
+2024-07-07,Pune,North,Household,C,4276.90
+2024-07-10,Chennai,South,Food,A,3893.53
+2024-03-09,Chennai,West,Household,A,1672.60
+2024-10-04,Delhi,South,Food,A,5704.89
+2024-12-14,Delhi,North,Beverages,C,4552.49
+2024-09-03,Bangalore,North,Beverages,C,1523.96
+2024-03-16,Chennai,West,Beverages,C,6534.58
+2024-06-02,Delhi,South,Beverages,C,3709.92
+2024-05-23,Chennai,South,Household,C,1381.48
+2024-03-26,Chennai,South,Food,D,461.50
+2024-07-03,Pune,South,Household,B,5937.12
+2024-10-11,Bangalore,South,Beverages,C,5114.52
+2024-08-07,Bangalore,North,Household,B,2248.88
+2024-03-09,Chennai,West,"Personal Care",D,519.40
+2024-02-16,Chennai,South,Food,B,1217.88
+2024-04-03,Pune,South,Beverages,B,495.14
+2024-08-25,Delhi,South,Beverages,C,1073.49
+2024-07-22,Delhi,South,Beverages,C,3107.40
+2024-08-05,Bangalore,West,Household,D,991.84
+2024-12-06,Chennai,South,Beverages,A,3030.39
+2024-02-08,Pune,North,Beverages,C,4881.42
+2024-04-09,Pune,North,Food,B,2613.10
+2024-10-15,Pune,West,Beverages,D,6022.18
+2024-09-10,Chennai,West,"Personal Care",C,3903.02
+2024-08-09,Chennai,West,Household,D,2021.48
+2024-12-22,Pune,West,Household,C,2920.50
+2024-01-23,Bangalore,North,Household,C,649.86
+2024-09-06,Mumbai,West,Food,D,200.46
+2024-01-10,Chennai,West,Beverages,A,3079.53
+2024-09-02,Delhi,South,Beverages,A,2771.99
+2024-11-20,Bangalore,West,Beverages,C,3355.45
+2024-04-09,Pune,North,"Personal Care",C,546.53
+2024-10-16,Pune,South,Beverages,C,1674.13
+2024-06-28,Delhi,South,Household,C,2987.55
+2024-08-10,Pune,North,Household,C,1374.44
+2024-09-06,Chennai,South,Household,A,428.58
+2024-05-26,Chennai,South,Household,B,2051.69
+2024-04-05,Bangalore,West,Beverages,A,3972.52
+2024-09-13,Bangalore,North,Beverages,A,4208.76
+2024-11-20,Bangalore,North,Household,A,3278.41
+2024-01-04,Delhi,North,Household,C,2438.45
+2024-01-16,Pune,North,Beverages,D,500.52
+2024-10-06,Chennai,South,Beverages,A,235.29
+2024-12-01,Pune,West,Beverages,D,610.56
+2024-09-03,Bangalore,North,Household,C,364.54
+2024-09-14,Bangalore,North,"Personal Care",D,2465.56
+2024-06-08,Chennai,South,"Personal Care",C,231.12
+2024-12-05,Mumbai,West,Beverages,A,1243.81
+2024-05-31,Pune,South,Food,B,890.71
+2024-06-26,Chennai,West,Household,C,184.23
+2024-06-11,Pune,South,Household,D,1379.64
+2024-02-02,Pune,South,Household,C,2018.89
+2024-06-27,Chennai,North,Food,B,712.16
+2024-04-10,Chennai,South,Beverages,C,2995.95
+2024-09-24,Delhi,South,"Personal Care",C,1161.64
+2024-11-18,Pune,South,Food,B,3731.77
+2024-03-05,Chennai,South,Household,A,603.88
+2024-06-16,Delhi,North,Food,D,816.20
+2024-11-25,Chennai,South,Beverages,D,8865.28
+2024-02-12,Delhi,North,Beverages,C,983.54
+2024-02-13,Bangalore,North,Beverages,A,4326.11
+2024-10-11,Delhi,North,Household,C,1687.81
+2024-01-12,Bangalore,West,Beverages,A,1278.14
+2024-04-04,Pune,South,Food,A,903.33
+2024-10-28,Delhi,South,"Personal Care",C,4464.54
+2024-09-09,Chennai,North,Household,A,2927.72
+2024-08-29,Chennai,South,Beverages,A,995.09
+2024-02-04,Bangalore,West,Beverages,A,1992.56
+2024-08-02,Pune,North,Beverages,A,537.68
+2024-12-02,Pune,North,Beverages,A,2398.29
+2024-03-30,Chennai,South,Household,A,933.84
+2024-09-20,Bangalore,South,"Personal Care",C,1668.12
+2024-04-02,Pune,West,Household,C,770.68
+2024-03-30,Chennai,North,Beverages,C,3209.84
+2024-04-24,Bangalore,North,Household,A,632.17
+2024-04-14,Chennai,South,Beverages,C,843.51
+2024-07-14,Chennai,South,Beverages,C,502.13
+2024-11-09,Pune,North,Household,B,1921.16
+2024-04-23,Delhi,South,Beverages,D,2251.71
+2024-03-15,Pune,West,Household,C,2536.36
+2024-08-04,Mumbai,West,"Personal Care",D,2097.39
+2024-10-03,Chennai,South,Household,B,5723.53
+2024-09-05,Bangalore,West,Household,C,5257.17
+2024-06-12,Delhi,South,Beverages,A,1062.94
+2024-12-22,Delhi,South,Beverages,A,973.81
+2024-07-10,Bangalore,North,"Personal Care",D,5232.25
+2024-08-14,Pune,North,Beverages,C,603.92
+2024-06-25,Pune,South,Food,A,993.85
+2024-04-08,Pune,South,Beverages,C,3378.15
+2024-02-05,Delhi,South,Beverages,B,2325.14
+2024-04-05,Chennai,South,Beverages,C,2623.71
+2024-05-31,Bangalore,North,Household,C,311.68
+2024-05-30,Chennai,South,Food,D,3025.64
+2024-07-08,Chennai,West,Beverages,A,213.22
+2024-08-11,Bangalore,South,Beverages,A,8594.81
+2024-02-06,Chennai,North,Food,B,3495.36
+2024-09-24,Pune,South,Beverages,D,2160.08
+2024-07-01,Bangalore,South,Household,A,510.31
+2024-01-13,Bangalore,South,Beverages,C,3928.36
+2024-10-05,Pune,South,Beverages,A,1591.19
+2024-08-04,Delhi,North,Beverages,D,1188.69
+2024-12-20,Bangalore,South,Household,D,929.25
+2024-12-26,Bangalore,North,Household,A,1181.96
+2024-10-12,Chennai,South,Beverages,C,1444.87
+2024-09-29,Pune,North,Beverages,A,639.86
+2024-03-02,Pune,West,"Personal Care",C,2297.37
+2024-03-24,Pune,West,Beverages,A,4777.90
+2024-08-04,Chennai,West,"Personal Care",C,2010.30
+2024-12-07,Bangalore,South,Household,B,3359.56
+2024-07-05,Chennai,West,"Personal Care",A,1360.42
+2024-01-19,Delhi,South,Household,A,1429.97
+2024-06-25,Chennai,West,Household,C,1085.02
+2024-04-09,Pune,South,Household,B,3708.85
+2024-08-20,Bangalore,North,Household,B,2516.25
+2024-03-16,Chennai,West,Household,C,1238.83
+2024-09-21,Delhi,South,Beverages,A,900.98
+2024-10-10,Delhi,North,Beverages,A,1224.90
+2024-07-24,Chennai,South,Food,B,3588.35
+2024-08-10,Bangalore,South,Beverages,D,878.07
+2024-02-21,Chennai,South,"Personal Care",C,1225.38
+2024-12-04,Pune,South,Food,B,1118.35
+2024-05-23,Chennai,West,"Personal Care",C,3653.44
+2024-03-09,Bangalore,West,"Personal Care",D,1562.77
+2024-04-08,Pune,South,Beverages,D,2806.99
+2024-01-25,Chennai,West,Beverages,A,563.37
+2024-02-22,Pune,South,Beverages,A,5335.34
+2024-05-30,Delhi,North,Beverages,A,1192.76
+2024-05-23,Pune,South,Household,A,2492.04
+2024-02-26,Mumbai,West,Beverages,B,3470.98
+2024-02-08,Chennai,South,Household,C,2921.48
+2024-04-18,Chennai,South,Beverages,A,1273.90
+2024-06-29,Chennai,West,Beverages,A,176.72
+2024-02-11,Pune,South,Beverages,D,4068.06
+2024-07-04,Pune,South,Food,B,8095.41
+2024-08-10,Delhi,South,Food,B,563.27
+2024-05-01,Chennai,West,Household,A,765.19
+2024-05-12,Chennai,North,Beverages,D,368.59
+2024-06-11,Delhi,South,"Personal Care",D,3523.22
+2024-08-02,Chennai,South,Household,A,3529.29
+2024-08-08,Chennai,West,Beverages,C,595.02
+2024-08-22,Chennai,West,Food,B,3802.32
+2024-11-26,Chennai,South,"Personal Care",C,7090.73
+2024-05-25,Mumbai,West,Household,C,1366.43
+2024-08-26,Chennai,North,Food,A,2055.48
+2024-03-16,Chennai,South,Household,B,782.75
+2024-01-09,Pune,North,"Personal Care",C,780.93
+2024-03-14,Chennai,West,Beverages,D,5724.34
+2024-09-09,Pune,South,"Personal Care",D,1215.10
+2024-08-17,Pune,South,Food,A,2313.47
+2024-01-07,Pune,South,Beverages,C,1501.01
+2024-06-22,Chennai,West,Beverages,D,2239.31
+2024-05-20,Bangalore,North,Household,A,3817.06
+2024-06-16,Bangalore,South,Beverages,B,2696.28
+2024-06-18,Mumbai,West,Beverages,D,2768.25
+2024-10-09,Mumbai,West,Household,A,1237.01
+2024-05-01,Delhi,South,Beverages,D,1911.95
+2024-07-12,Delhi,South,Household,D,4844.44
+2024-01-05,Pune,South,Beverages,C,3885.01
+2024-01-29,Pune,South,Beverages,A,2971.29
+2024-06-13,Pune,South,Household,A,5389.12
+2024-12-04,Pune,South,Beverages,D,4208.68
+2024-05-15,Bangalore,North,Household,B,999.73
+2024-12-30,Chennai,West,"Personal Care",C,1472.62
+2024-11-16,Chennai,South,Household,A,980.42
+2024-12-07,Chennai,South,Beverages,A,2261.81
+2024-05-24,Chennai,West,Beverages,D,599.52
+2024-11-22,Pune,South,Beverages,C,1551.50
+2024-08-04,Pune,North,Beverages,C,2928.31
+2024-10-27,Chennai,West,"Personal Care",D,2490.16
+2024-05-11,Chennai,West,Household,A,2046.16
+2024-10-18,Bangalore,North,"Personal Care",D,7501.82
+2024-03-10,Chennai,North,Beverages,A,1660.27
+2024-09-08,Chennai,South,Beverages,B,890.75
+2024-10-01,Chennai,South,Household,D,2964.06
+2024-12-29,Bangalore,North,Beverages,A,4087.96
+2024-06-30,Chennai,South,Beverages,C,4234.10
+2024-06-15,Bangalore,South,Beverages,D,3940.70
+2024-03-31,Chennai,West,Household,D,330.63
+2024-07-20,Mumbai,West,Beverages,A,920.07
+2024-12-11,Chennai,South,Food,D,2422.53
+2024-01-19,Bangalore,West,Beverages,C,2570.09
+2024-02-08,Mumbai,West,Household,D,2873.29
+2024-05-05,Chennai,North,Food,B,681.37
+2024-06-21,Pune,South,Beverages,A,7620.88
+2024-05-20,Chennai,South,Beverages,D,1142.14
+2024-08-29,Chennai,North,Household,B,1208.12
+2024-08-07,Chennai,North,Beverages,A,1600.26
+2024-05-05,Pune,West,Food,B,4221.76
+2024-02-27,Delhi,South,Beverages,A,3821.35
+2024-05-27,Delhi,South,Household,B,7371.86
+2024-11-12,Delhi,North,Food,D,3239.03
+2024-12-26,Bangalore,South,Household,A,814.19
+2024-01-01,Pune,North,Household,C,202.29
+2024-12-13,Pune,North,Food,B,4668.88
+2024-07-08,Pune,North,Household,D,6697.88
+2024-07-09,Chennai,West,Household,C,952.59
+2024-11-07,Bangalore,South,Food,B,153.02
+2024-04-26,Pune,South,Beverages,C,5587.61
+2024-05-13,Chennai,South,Beverages,A,2688.66
+2024-02-27,Bangalore,North,"Personal Care",C,443.54
+2024-02-13,Pune,West,Food,D,526.26
+2024-06-21,Pune,North,"Personal Care",C,1125.75
+2024-06-08,Pune,North,Beverages,A,6567.23
+2024-06-21,Pune,North,Beverages,A,594.56
+2024-11-12,Pune,South,Beverages,D,6839.41
+2024-10-29,Chennai,South,Beverages,A,1132.64
+2024-05-28,Bangalore,South,Household,D,551.84
+2024-03-20,Chennai,North,Beverages,A,4522.39
+2024-07-31,Chennai,South,Beverages,A,1516.20
+2024-07-21,Chennai,West,Household,D,2079.47
+2024-09-08,Bangalore,North,Beverages,A,1217.94
+2024-08-16,Mumbai,West,Household,C,984.46
+2024-06-12,Pune,North,Food,A,852.67
+2024-08-14,Bangalore,South,Household,D,6388.82
+2024-05-26,Chennai,South,Household,D,696.39
+2024-01-20,Pune,North,Food,B,1648.07
+2024-02-16,Pune,North,Household,C,380.80
+2024-08-20,Chennai,South,Food,B,5576.25
+2024-10-31,Bangalore,West,"Personal Care",D,4080.44
+2024-01-14,Bangalore,North,Beverages,A,2906.22
+2024-05-22,Bangalore,West,Beverages,C,175.13
+2024-01-01,Chennai,South,Beverages,A,408.91
+2024-02-23,Pune,West,Beverages,C,2999.75
+2024-09-15,Chennai,North,Beverages,D,1891.10
+2024-05-23,Pune,West,Beverages,D,4313.47
+2024-01-12,Delhi,South,Beverages,A,2448.87
+2024-11-25,Chennai,North,Beverages,C,437.12
+2024-08-11,Pune,South,Food,A,3443.53
+2024-09-28,Delhi,South,Food,A,1236.05
+2024-12-23,Chennai,South,Household,D,785.70
+2024-06-04,Chennai,South,Beverages,D,5214.33
+2024-01-08,Bangalore,South,"Personal Care",D,1215.10
+2024-05-01,Pune,North,Beverages,D,684.19
+2024-12-13,Chennai,South,Beverages,C,753.04
+2024-06-12,Bangalore,North,Beverages,A,2608.56
+2024-03-30,Chennai,South,Beverages,C,870.65
+2024-05-15,Pune,South,Household,D,4356.45
+2024-07-04,Chennai,West,Beverages,A,3799.17
+2024-11-11,Delhi,South,Household,A,1226.85
+2024-06-26,Chennai,South,Beverages,C,7416.69
+2024-01-28,Pune,South,Household,D,3497.93
+2024-08-07,Chennai,South,Food,A,1577.18
+2024-12-22,Pune,North,Household,A,668.15
+2024-02-10,Bangalore,North,Food,B,1132.79
+2024-08-15,Delhi,South,Beverages,A,1775.93
+2024-07-10,Chennai,North,Food,D,579.65
+2024-05-24,Chennai,North,Household,C,2362.68
+2024-07-19,Bangalore,North,Beverages,C,5888.20
+2024-07-30,Bangalore,South,Food,D,5890.31
+2024-08-07,Bangalore,North,Beverages,D,3585.49
+2024-08-27,Bangalore,North,Food,B,2901.91
+2024-02-15,Bangalore,North,Household,B,1827.93
+2024-02-04,Chennai,South,"Personal Care",C,4592.62
+2024-09-09,Chennai,North,Household,A,981.67
+2024-03-22,Delhi,South,Household,C,184.95
+2024-09-12,Pune,South,"Personal Care",D,3769.52
+2024-07-15,Bangalore,South,"Personal Care",A,806.47
+2024-10-29,Chennai,North,Household,D,5708.06
+2024-01-10,Pune,North,"Personal Care",D,1978.57
+2024-11-07,Mumbai,West,Beverages,A,1171.13
+2024-10-12,Chennai,West,Beverages,A,3900.86
+2024-08-29,Chennai,North,Beverages,A,761.13
+2024-09-07,Delhi,North,Household,A,427.00
+2024-12-30,Chennai,North,Beverages,A,528.84
+2024-01-05,Pune,South,Household,A,518.27
+2024-04-28,Bangalore,North,Beverages,A,4293.07
+2024-10-15,Chennai,West,"Personal Care",D,2745.47
+2024-03-05,Pune,South,Beverages,B,788.38
+2024-05-25,Bangalore,South,Food,D,2385.76
+2024-08-11,Chennai,South,"Personal Care",C,2119.08
+2024-08-26,Delhi,North,Household,A,4619.92
+2024-06-25,Delhi,North,Food,A,3523.82
+2024-09-23,Chennai,West,Food,D,4551.85
+2024-12-06,Chennai,South,Food,A,4993.91
+2024-10-08,Delhi,North,"Personal Care",C,3081.00
+2024-03-03,Chennai,North,"Personal Care",D,6348.00
+2024-08-04,Bangalore,North,Beverages,C,128.83
+2024-12-07,Delhi,South,Beverages,C,500.87
+2024-11-10,Chennai,West,Beverages,C,5758.62
+2024-10-09,Chennai,South,Beverages,A,6536.61
+2024-06-25,Chennai,West,Household,D,3105.57
+2024-04-07,Delhi,North,Food,D,171.52
+2024-04-14,Delhi,South,Household,A,3820.90
+2024-04-08,Chennai,West,Household,A,2198.27
+2024-11-06,Pune,North,Beverages,D,5725.21
+2024-01-06,Chennai,South,Beverages,A,1980.94
+2024-07-15,Chennai,West,Household,A,3622.73
+2024-12-16,Pune,South,Beverages,A,1747.89
+2024-05-12,Chennai,South,Beverages,D,1327.25
+2024-12-23,Delhi,South,Household,A,5810.24
+2024-09-15,Bangalore,West,Food,B,676.99
+2024-01-23,Chennai,South,Beverages,D,1536.21
+2024-02-22,Delhi,South,"Personal Care",D,1856.59
+2024-06-13,Chennai,West,Beverages,D,8754.24
+2024-07-20,Chennai,West,Beverages,A,1070.03
+2024-03-23,Bangalore,South,Beverages,C,1336.51
+2024-05-24,Mumbai,West,Beverages,C,783.15
+2024-03-25,Delhi,North,Beverages,D,2810.10
+2024-03-18,Bangalore,South,Household,C,5125.14
+2024-01-01,Delhi,North,"Personal Care",D,3355.34
+2024-02-20,Delhi,South,Household,D,6293.19
+2024-06-21,Bangalore,North,Food,B,475.55
+2024-07-23,Delhi,South,Household,A,6832.85
+2024-09-16,Pune,West,Beverages,A,3851.07
+2024-10-14,Chennai,South,Beverages,A,4657.91
+2024-02-03,Delhi,North,"Personal Care",D,1565.26
+2024-12-13,Bangalore,South,Beverages,A,3649.54
+2024-04-04,Delhi,North,Beverages,A,5859.76
+2024-03-12,Pune,South,"Personal Care",A,995.20
+2024-02-08,Bangalore,North,Household,A,2079.46
+2024-06-02,Pune,West,Beverages,C,4073.27
+2024-09-06,Bangalore,North,Food,B,749.13
+2024-06-10,Pune,South,"Personal Care",D,2488.15
+2024-04-27,Bangalore,North,"Personal Care",C,1479.91
+2024-09-15,Chennai,North,Household,B,1070.16
+2024-11-01,Chennai,West,Beverages,A,606.00
+2024-09-24,Chennai,South,Beverages,D,2847.55
+2024-02-23,Pune,South,Food,A,4989.28
+2024-08-23,Bangalore,South,Food,B,1399.15
+2024-08-09,Delhi,North,Food,B,3025.02
+2024-09-07,Pune,South,Household,A,2263.80
+2024-11-08,Pune,North,"Personal Care",C,3440.17
+2024-04-21,Pune,North,Household,C,475.61
+2024-09-11,Bangalore,West,Beverages,A,918.80
+2024-10-29,Pune,West,Beverages,D,4897.28
+2024-07-25,Mumbai,West,Beverages,D,7767.17
+2024-08-16,Delhi,North,Household,C,483.09
+2024-12-06,Bangalore,South,Household,B,1681.21
+2024-03-06,Chennai,South,Household,A,5849.38
+2024-03-15,Pune,South,Beverages,C,6928.02
+2024-04-12,Bangalore,West,"Personal Care",C,2621.20
+2024-07-10,Chennai,West,Household,D,586.49
+2024-09-08,Bangalore,North,Food,B,2321.74
+2024-08-13,Delhi,South,Household,D,983.40
+2024-10-20,Chennai,North,"Personal Care",A,1453.43
+2024-11-01,Chennai,South,Beverages,D,6338.75
+2024-04-07,Chennai,West,Food,B,2821.19
+2024-12-03,Bangalore,South,Beverages,C,3851.00
+2024-10-12,Pune,North,Household,C,5743.21
+2024-11-30,Pune,South,"Personal Care",C,4317.82
+2024-12-12,Bangalore,North,Household,A,1649.87
+2024-11-03,Pune,North,Household,D,2902.21
+2024-09-05,Bangalore,South,"Personal Care",C,4997.09
+2024-06-14,Pune,South,Beverages,D,2461.23
+2024-11-30,Pune,North,"Personal Care",A,703.32
+2024-01-30,Delhi,South,Food,A,1385.05
+2024-09-03,Bangalore,West,Household,C,4610.00
+2024-04-15,Pune,South,Food,D,6042.01
+2024-02-20,Delhi,North,Household,A,514.09
+2024-03-21,Bangalore,West,"Personal Care",C,1905.09
+2024-05-12,Pune,North,"Personal Care",C,860.40
+2024-10-11,Pune,South,Household,B,2496.57
+2024-05-17,Pune,North,Household,A,3459.76
+2024-07-02,Pune,West,Household,C,7501.72
+2024-11-25,Chennai,North,Beverages,C,1854.96
+2024-09-29,Pune,South,Food,D,937.65
+2024-12-05,Delhi,South,Food,B,137.14
+2024-03-09,Bangalore,South,"Personal Care",D,5890.97
+2024-02-03,Delhi,South,Household,B,2074.44
+2024-09-18,Mumbai,West,Household,A,2320.32
+2024-02-22,Pune,North,"Personal Care",D,1880.86
+2024-07-23,Bangalore,West,Household,A,1377.68
+2024-05-05,Bangalore,West,Beverages,D,859.41
+2024-08-22,Chennai,West,Beverages,A,7527.97
+2024-02-12,Bangalore,North,Beverages,D,8889.27
+2024-08-27,Bangalore,North,Beverages,D,2121.08
+2024-04-20,Pune,South,Beverages,A,3454.14
+2024-09-05,Chennai,South,Food,D,2737.77
+2024-05-30,Pune,South,Household,A,1242.68
+2024-07-01,Bangalore,North,Beverages,C,3558.67
+2024-12-01,Bangalore,South,Food,A,2946.44
+2024-04-04,Chennai,West,Beverages,D,344.70
+2024-01-08,Mumbai,West,Beverages,D,6612.00
+2024-12-25,Mumbai,West,Beverages,D,3495.64
+2024-07-02,Delhi,South,Beverages,D,1139.40
+2024-10-07,Chennai,South,Beverages,A,1999.47
+2024-07-13,Pune,North,Beverages,A,1358.52
+2024-12-17,Chennai,South,Household,A,2563.69
+2024-07-13,Chennai,South,Household,A,757.61
+2024-06-03,Pune,South,Beverages,A,180.04
+2024-04-02,Pune,South,Household,C,2908.75
+2024-06-08,Chennai,South,Beverages,C,5521.47
+2024-03-01,Pune,North,Beverages,A,3005.00
+2024-05-01,Mumbai,West,Household,B,1694.73
+2024-02-20,Bangalore,South,Beverages,C,8652.16
+2024-10-03,Pune,South,Beverages,A,319.88
+2024-01-05,Bangalore,South,Beverages,D,7316.72
+2024-04-01,Chennai,South,Household,A,1506.39
+2024-06-18,Delhi,South,Household,A,5365.28
+2024-11-12,Mumbai,West,Beverages,D,4730.67
+2024-01-22,Pune,North,Household,B,1111.82
+2024-11-21,Chennai,South,"Personal Care",C,2499.36
+2024-01-01,Bangalore,North,Food,A,3410.30
+2024-05-12,Pune,South,Beverages,C,2971.07
+2024-08-20,Mumbai,West,Household,B,3682.48
+2024-01-12,Delhi,South,Beverages,A,1799.76
+2024-12-11,Bangalore,South,Household,A,4578.05
+2024-02-15,Mumbai,West,Beverages,A,7922.24
+2024-02-03,Bangalore,North,Beverages,A,4648.65
+2024-03-18,Pune,South,"Personal Care",C,634.21
+2024-08-05,Delhi,North,Beverages,A,767.30
+2024-10-27,Pune,North,Food,B,2800.84
+2024-03-13,Chennai,South,Beverages,D,2759.26
+2024-10-08,Pune,North,"Personal Care",C,1257.17
+2024-09-05,Delhi,South,Household,C,3336.96
+2024-02-16,Chennai,North,Beverages,A,5956.80
+2024-04-30,Pune,North,Food,B,1381.22
+2024-08-01,Mumbai,West,Food,A,863.72
+2024-08-26,Delhi,South,"Personal Care",A,1463.69
+2024-02-25,Delhi,North,Household,D,2709.65
+2024-12-15,Pune,South,Household,C,1314.39
+2024-04-16,Delhi,South,"Personal Care",C,1596.51
+2024-11-14,Pune,West,Household,C,1364.92
+2024-02-17,Chennai,South,Food,B,1328.40
+2024-03-01,Pune,North,Beverages,D,838.39
+2024-12-02,Bangalore,West,Beverages,C,617.55
+2024-01-26,Bangalore,South,Food,D,4159.85
+2024-10-18,Bangalore,South,Beverages,A,995.17
+2024-09-13,Pune,South,Household,C,2952.34
+2024-01-08,Pune,South,Food,A,6100.25
+2024-04-22,Bangalore,South,Household,B,1779.03
+2024-12-20,Pune,North,Household,C,2356.22
+2024-09-09,Bangalore,South,Beverages,A,722.59
+2024-06-28,Chennai,West,Household,A,294.27
+2024-07-25,Bangalore,North,Beverages,C,803.67
+2024-10-29,Delhi,South,Food,A,1755.59
+2024-05-06,Delhi,North,"Personal Care",C,1838.98
+2024-02-25,Bangalore,North,Household,D,398.17
+2024-08-01,Pune,North,Food,D,1251.28
+2024-01-14,Mumbai,West,Food,D,5131.82
+2024-01-28,Chennai,West,Beverages,A,3589.03
+2024-03-18,Delhi,North,Household,D,1645.00
+2024-08-03,Delhi,South,Household,B,4075.40
+2024-12-30,Chennai,South,"Personal Care",A,108.10
+2024-06-02,Pune,South,Beverages,A,4104.36
+2024-01-14,Chennai,West,"Personal Care",D,1257.18
+2024-07-05,Pune,North,Household,A,1225.90
+2024-11-07,Pune,West,Household,A,3099.16
+2024-01-07,Bangalore,South,Beverages,A,2110.01
+2024-01-03,Delhi,North,Food,D,1396.50
+2024-04-20,Pune,North,Beverages,C,1980.48
+2024-08-25,Bangalore,North,"Personal Care",C,3624.09
+2024-12-28,Chennai,South,"Personal Care",A,3798.36
+2024-08-26,Chennai,South,Beverages,D,368.89
+2024-09-30,Pune,North,Household,D,2860.48
+2024-10-20,Pune,South,Beverages,B,1766.51
+2024-08-14,Mumbai,West,Beverages,A,1878.84
+2024-01-15,Pune,North,Beverages,C,3620.26
+2024-07-10,Chennai,West,Beverages,D,561.01
+2024-04-28,Delhi,North,Beverages,A,4287.66
+2024-01-28,Delhi,North,Food,B,3224.24
+2024-07-20,Bangalore,West,Food,D,1474.67
+2024-02-08,Pune,West,Beverages,A,853.65
+2024-09-29,Bangalore,West,Beverages,D,4902.79
+2024-08-18,Delhi,South,Beverages,D,712.38
+2024-03-26,Delhi,North,Food,A,2564.67
+2024-05-05,Pune,South,Beverages,D,1142.32
+2024-10-26,Chennai,South,"Personal Care",C,1727.50
+2024-01-25,Pune,South,Beverages,A,390.99
+2024-05-24,Delhi,North,Beverages,A,1486.15
+2024-01-13,Mumbai,West,Food,A,1957.42
+2024-07-30,Delhi,South,Food,A,1516.09
+2024-01-25,Chennai,South,Beverages,D,5408.00
+2024-03-08,Pune,South,Household,B,3091.24
+2024-03-07,Pune,South,Beverages,A,4528.07
+2024-08-20,Delhi,South,Beverages,A,4842.99
+2024-04-18,Chennai,South,Beverages,D,5044.47
+2024-05-25,Bangalore,South,Household,A,125.73
+2024-04-20,Pune,West,"Personal Care",D,797.03
+2024-08-15,Chennai,South,Beverages,D,1781.47
+2024-04-20,Pune,West,Household,A,4648.63
+2024-02-03,Bangalore,North,Household,B,921.90
+2024-04-20,Chennai,South,"Personal Care",A,760.42
+2024-09-20,Chennai,South,Household,C,431.23
+2024-08-23,Bangalore,South,"Personal Care",C,301.40
+2024-03-23,Delhi,South,"Personal Care",C,6669.48
+2024-02-11,Chennai,South,Beverages,A,1722.74
+2024-04-10,Delhi,South,Beverages,D,1714.61
+2024-01-06,Pune,South,Beverages,C,4438.47
+2024-06-28,Pune,North,Beverages,D,4551.48
+2024-10-08,Pune,North,Beverages,D,2074.82
+2024-11-15,Bangalore,North,Beverages,C,1961.31
+2024-08-13,Chennai,North,Household,A,1974.91
+2024-11-10,Chennai,West,Household,C,740.76
+2024-12-30,Pune,West,Beverages,C,1856.53
+2024-08-16,Chennai,West,Household,B,478.92
+2024-10-15,Pune,North,Household,D,3526.24
+2024-05-29,Chennai,West,Beverages,D,4293.13
+2024-10-03,Pune,North,"Personal Care",A,5150.51
+2024-07-16,Bangalore,South,Household,A,794.31
+2024-03-10,Chennai,South,"Personal Care",D,380.07
+2024-04-21,Bangalore,North,Beverages,C,3224.76
+2024-01-04,Bangalore,West,Household,A,3161.47
+2024-12-15,Bangalore,South,Household,B,5538.60
+2024-11-26,Mumbai,West,Household,D,1978.19
+2024-11-13,Chennai,West,Food,D,2397.53
+2024-12-15,Chennai,South,Household,A,7871.83
+2024-04-04,Pune,South,Household,D,2700.91
+2024-05-31,Pune,North,Beverages,C,2989.34
+2024-11-06,Delhi,North,Beverages,A,6251.96
+2024-05-16,Chennai,South,"Personal Care",C,2457.97
+2024-09-03,Delhi,South,"Personal Care",C,3145.92
+2024-08-30,Bangalore,West,Household,C,1876.25
+2024-01-31,Pune,South,"Personal Care",D,2359.46
+2024-02-09,Chennai,West,Beverages,A,1487.27
+2024-08-16,Chennai,West,"Personal Care",C,1739.99
+2024-02-05,Pune,West,Household,D,2295.11
+2024-08-10,Bangalore,South,Household,A,438.87
+2024-01-06,Delhi,South,"Personal Care",C,3652.74
+2024-11-17,Delhi,North,Household,D,2840.03
+2024-08-07,Delhi,South,Beverages,D,4851.45
+2024-03-15,Bangalore,South,Household,C,1580.97
+2024-01-04,Bangalore,North,Household,A,2974.82
+2024-11-30,Chennai,West,"Personal Care",C,148.51
+2024-05-13,Pune,North,"Personal Care",A,693.26
+2024-04-27,Chennai,North,Household,B,767.14
+2024-04-03,Bangalore,North,Household,C,1860.05
+2024-03-02,Bangalore,North,Household,D,377.68
+2024-07-12,Chennai,West,Beverages,A,100.01
+2024-11-30,Chennai,South,Beverages,D,2975.57
+2024-07-21,Bangalore,South,Food,B,4337.50
+2024-01-26,Pune,North,Beverages,D,6323.50
+2024-06-21,Chennai,South,Food,B,2031.25
+2024-10-26,Delhi,South,Household,A,814.48
+2024-05-12,Delhi,South,Beverages,D,4194.65
+2024-11-21,Bangalore,North,Household,A,1256.64
+2024-04-27,Bangalore,South,Household,A,5397.34
+2024-11-19,Mumbai,West,Household,A,3010.29
+2024-10-01,Chennai,West,Household,C,2132.23
+2024-07-30,Chennai,South,Household,C,7803.70
+2024-08-12,Chennai,West,"Personal Care",D,5239.65
+2024-01-20,Chennai,South,Beverages,A,2011.80
+2024-04-22,Pune,North,"Personal Care",D,6340.71
+2024-05-19,Chennai,South,Household,B,2370.68
+2024-02-16,Chennai,West,Household,D,8121.30
+2024-01-01,Bangalore,North,"Personal Care",C,1149.99
+2024-03-30,Bangalore,South,Beverages,C,3407.69
+2024-05-21,Bangalore,North,Beverages,A,729.60
+2024-11-15,Bangalore,North,Beverages,D,1204.19
+2024-02-07,Pune,North,"Personal Care",C,2561.59
+2024-10-19,Pune,North,Household,B,8648.05
+2024-05-18,Pune,South,Beverages,A,6895.96
+2024-12-21,Chennai,North,Beverages,D,1973.04
+2024-11-28,Pune,South,Household,A,935.10
+2024-09-15,Bangalore,South,Beverages,C,1252.97
+2024-06-09,Bangalore,North,Beverages,D,3227.03
+2024-06-26,Chennai,South,"Personal Care",D,5485.44
+2024-01-10,Bangalore,West,Household,C,1998.40
+2024-09-17,Bangalore,South,Beverages,C,3207.58
+2024-05-17,Pune,North,Beverages,D,773.84
+2024-06-20,Chennai,South,Household,C,4343.36
+2024-01-13,Bangalore,North,Beverages,A,850.16
+2024-06-16,Delhi,South,Beverages,C,1104.33
+2024-05-09,Chennai,West,Household,A,736.89
+2024-03-24,Pune,North,"Personal Care",C,2326.76
+2024-11-16,Bangalore,North,"Personal Care",A,320.32
+2024-11-14,Pune,North,Beverages,D,410.06
+2024-04-10,Chennai,West,Food,D,920.76
+2024-11-24,Chennai,South,Beverages,D,5285.15
+2024-09-29,Chennai,West,"Personal Care",D,500.44
+2024-09-21,Pune,West,Food,B,4518.98
+2024-02-07,Chennai,North,Household,B,2799.99
+2024-04-03,Chennai,North,Household,C,1916.60
+2024-04-04,Bangalore,North,Beverages,A,647.03
+2024-10-31,Delhi,South,Food,B,2030.56
+2024-03-09,Chennai,South,Household,A,7196.04
+2024-11-13,Delhi,South,Beverages,A,3655.49
+2024-08-23,Delhi,North,"Personal Care",D,1558.94
+2024-11-29,Bangalore,South,Beverages,A,5605.32
+2024-05-16,Mumbai,West,Beverages,A,6926.35
+2024-03-16,Pune,West,Household,D,1135.29
+2024-02-04,Bangalore,North,Household,B,3633.97
+2024-01-01,Chennai,South,Food,B,2761.33
+2024-10-22,Chennai,West,Household,A,1512.56
+2024-11-15,Chennai,West,Beverages,A,2854.11
+2024-02-29,Chennai,South,Beverages,D,4670.67
+2024-11-15,Chennai,South,Food,B,1673.68
+2024-12-14,Bangalore,South,Beverages,B,152.74
+2024-11-23,Pune,South,Beverages,C,957.05
+2024-09-23,Bangalore,South,Beverages,D,4559.01
+2024-12-26,Pune,South,"Personal Care",C,580.30
+2024-08-16,Bangalore,West,Beverages,A,6101.86
+2024-09-26,Mumbai,West,Beverages,C,5133.81
+2024-11-11,Chennai,South,"Personal Care",A,2384.22
+2024-10-12,Pune,South,Beverages,A,642.24
+2024-10-17,Bangalore,West,Beverages,D,1832.44
+2024-07-31,Delhi,South,Food,A,631.48
+2024-06-13,Bangalore,North,Household,A,6879.91
+2024-01-05,Pune,South,Beverages,D,769.45
+2024-12-04,Delhi,South,"Personal Care",C,2302.65
+2024-03-18,Chennai,South,Household,A,2725.61
+2024-03-02,Mumbai,West,Food,B,4773.18
+2024-05-11,Bangalore,West,Beverages,A,2401.24
+2024-03-29,Bangalore,South,Beverages,D,3681.73
+2024-08-24,Bangalore,South,Beverages,D,276.96
+2024-02-11,Pune,South,Beverages,D,1667.49
+2024-03-29,Pune,South,"Personal Care",C,3642.64
+2024-10-22,Chennai,West,Food,A,2445.17
+2024-11-23,Mumbai,West,"Personal Care",D,3243.92
+2024-10-21,Bangalore,West,Beverages,C,7658.73
+2024-04-13,Chennai,South,Household,A,5550.54
+2024-01-14,Bangalore,South,Household,C,1213.54
+2024-10-14,Delhi,South,Household,C,5928.17
+2024-06-27,Chennai,South,"Personal Care",C,2024.22
+2024-05-04,Bangalore,West,Food,D,5275.78
+2024-12-18,Delhi,South,Beverages,C,1623.22
+2024-01-23,Bangalore,North,Beverages,D,2521.48
+2024-03-03,Delhi,North,Beverages,D,1949.43
+2024-05-22,Chennai,South,Food,B,2803.20
+2024-06-01,Bangalore,South,Household,C,503.85
+2024-05-24,Pune,South,Household,C,634.07
+2024-08-12,Bangalore,South,Household,C,3508.07
+2024-11-04,Delhi,South,Food,B,7528.54
+2024-04-13,Chennai,North,Beverages,C,2388.91
+2024-04-13,Bangalore,North,Household,A,2805.91
+2024-02-08,Pune,West,Household,C,1892.17
+2024-07-16,Chennai,West,Household,D,1351.01
+2024-05-13,Bangalore,North,"Personal Care",D,7159.53
+2024-03-07,Pune,North,Beverages,C,729.13
+2024-06-27,Chennai,South,Beverages,D,3531.74
+2024-02-11,Pune,North,Beverages,A,359.85
+2024-01-15,Delhi,South,Beverages,A,4185.53
+2024-04-20,Delhi,North,"Personal Care",C,1927.01
+2024-06-05,Bangalore,South,Household,A,1206.12
+2024-10-15,Pune,West,"Personal Care",C,2174.12
+2024-08-18,Chennai,South,Food,B,2308.11
+2024-06-05,Bangalore,North,Household,D,1394.56
+2024-02-07,Pune,West,Household,A,680.74
+2024-04-06,Delhi,North,Food,B,448.45
+2024-10-15,Delhi,South,Beverages,A,1209.10
+2024-09-10,Delhi,North,Household,A,1888.85
+2024-07-14,Bangalore,North,Beverages,A,2654.57
+2024-03-26,Chennai,West,Household,D,665.74
+2024-11-17,Pune,North,Beverages,D,6815.99
+2024-01-10,Delhi,South,Food,D,2599.96
+2024-01-05,Pune,South,Food,B,2043.29
+2024-05-02,Chennai,West,"Personal Care",D,134.17
+2024-11-25,Pune,North,Household,C,539.68
+2024-12-18,Chennai,South,Beverages,A,2467.41
+2024-04-27,Chennai,South,Beverages,C,6351.12
+2024-10-20,Pune,North,Food,B,7151.07
+2024-06-07,Delhi,North,Food,A,4339.95
+2024-10-29,Chennai,South,Beverages,A,481.22
+2024-08-15,Mumbai,West,Food,B,980.04
+2024-12-30,Pune,South,Beverages,A,1326.82
+2024-08-03,Bangalore,North,Beverages,D,2799.29
+2024-07-02,Bangalore,South,Beverages,A,1588.53
+2024-01-15,Pune,South,Beverages,A,971.83
+2024-06-05,Pune,North,Beverages,C,4988.38
+2024-05-15,Chennai,West,Beverages,A,4087.57
+2024-09-17,Delhi,North,Beverages,D,514.35
+2024-06-05,Chennai,North,Household,D,1390.77
+2024-02-16,Delhi,South,Household,A,4110.89
+2024-11-19,Bangalore,West,Household,A,433.60
+2024-11-27,Bangalore,South,Beverages,A,2366.45
